@@ -1,0 +1,5 @@
+{
+  "name": ".NET Microservices Dashboard",
+  "description": "A web-based dashboard to interact with a .NET microservices project featuring an Ocelot API Gateway and a Gemini-powered AI service. View products, orders, and generate text with AI.",
+  "requestFramePermissions": []
+}
